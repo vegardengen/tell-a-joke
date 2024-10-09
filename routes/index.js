@@ -6,7 +6,8 @@ const jokes = [
   "Q. How many programmers does it take to change a light bulb?\nA. None – It’s a hardware problem!",
   "Q. Why do programmers always mix up Halloween and Christmas?\nA. Because Oct 31 equals Dec 25.",
   "There are only 10 kinds of people in this world: those who know binary and those who don’t.",
-  "A programmer walks to the butcher shop and buys a kilo of meat.  An hour later he comes back upset that the butcher shortchanged him by 24 grams."
+  "A programmer walks to the butcher shop and buys a kilo of meat.  An hour later he comes back upset that the butcher shortchanged him by 24 grams.",
+  "Recursive: See recursive"
 ];
 
 const message = process.env.MESSAGE;
